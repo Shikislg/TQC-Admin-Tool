@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Dashboard.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="isRemembered" GenerateDefaultValueInCode="false" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="minimumPoints" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="pointHandlingMode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AccentOne" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 18, 25</Value>
+    </Setting>
+    <Setting Name="AccentTwo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 98, 115</Value>
+    </Setting>
+    <Setting Name="AccentThree" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">238, 155, 0</Value>
+    </Setting>
+    <Setting Name="AccentFour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">46, 51, 73</Value>
+    </Setting>
+    <Setting Name="AccentFive" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">200, 200, 200</Value>
+    </Setting>
+    <Setting Name="AccentSix" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="AccentSeven" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="AccentEight" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 98, 115</Value>
+    </Setting>
+    <Setting Name="selectedScheme" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
