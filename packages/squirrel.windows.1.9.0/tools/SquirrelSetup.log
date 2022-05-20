@@ -1,0 +1,77 @@
+﻿2022-04-21 23:08:30> Program: Starting Squirrel Updater: --releasify TqcAdminTool.1.0.0.nupkg
+2022-04-21 23:08:30> Program: Bootstrapper EXE found at:C:\Users\lohma\source\repos\TqcAdminTool\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2022-04-21 23:08:30> Program: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.0.nupkg
+2022-04-21 23:08:30> ReleasePackage: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.0.nupkg => C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool-1.0.0-full.nupkg
+2022-04-21 23:08:30> ReleasePackage: Extracting dependent packages: []
+2022-04-21 23:08:30> ReleasePackage: Removing unnecessary data
+2022-04-21 23:08:30> ReleasePackage: No release notes found in C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\TqcAdminTool.nuspec
+2022-04-21 23:08:30> Program: Building embedded zip file for Setup.exe
+2022-05-04 23:22:59> Program: Starting Squirrel Updater: --releasify TqcAdminTool.1.0.1.nupkg
+2022-05-04 23:22:59> Program: Bootstrapper EXE found at:C:\Users\lohma\source\repos\TqcAdminTool\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2022-05-04 23:22:59> Program: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.1.nupkg
+2022-05-04 23:22:59> ReleasePackage: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.1.nupkg => C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool-1.0.1-full.nupkg
+2022-05-04 23:22:59> ReleasePackage: Extracting dependent packages: []
+2022-05-04 23:22:59> ReleasePackage: Removing unnecessary data
+2022-05-04 23:22:59> ReleasePackage: No release notes found in C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\TqcAdminTool.nuspec
+2022-05-04 23:22:59> DeltaPackageBuilder: Extracting .\Releases\TqcAdminTool-1.0.0-full.nupkg and C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool-1.0.1-full.nupkg into C:\Users\lohma\AppData\Local\SquirrelTemp\tempb
+2022-05-04 23:23:00> DeltaPackageBuilder: \lib\net45\Dapper.dll hasn't changed, writing dummy file
+2022-05-04 23:23:00> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard.exe => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard.exe
+2022-05-04 23:23:00> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard.exe.config => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard.exe.config
+2022-05-04 23:23:00> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard_ExecutionStub.exe => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard_ExecutionStub.exe
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\Newtonsoft.Json.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\SharpCompress.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> DeltaPackageBuilder: \lib\net45\System.Net.Http.Formatting.dll hasn't changed, writing dummy file
+2022-05-04 23:23:01> Program: Building embedded zip file for Setup.exe
+2022-05-04 23:31:18> Program: Starting Squirrel Updater: --releasify TqcAdminTool.1.0.2.nupkg
+2022-05-04 23:31:18> Program: Bootstrapper EXE found at:C:\Users\lohma\source\repos\TqcAdminTool\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2022-05-04 23:31:18> Program: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.2.nupkg
+2022-05-04 23:31:18> ReleasePackage: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.2.nupkg => C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool-1.0.2-full.nupkg
+2022-05-04 23:31:18> ReleasePackage: Extracting dependent packages: []
+2022-05-04 23:31:18> ReleasePackage: Removing unnecessary data
+2022-05-04 23:31:18> ReleasePackage: No release notes found in C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\TqcAdminTool.nuspec
+2022-05-04 23:31:18> DeltaPackageBuilder: Extracting .\Releases\TqcAdminTool-1.0.1-full.nupkg and C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool-1.0.2-full.nupkg into C:\Users\lohma\AppData\Local\SquirrelTemp\tempb
+2022-05-04 23:31:19> DeltaPackageBuilder: \lib\net45\Dapper.dll hasn't changed, writing dummy file
+2022-05-04 23:31:19> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard.exe => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard.exe
+2022-05-04 23:31:19> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard.exe.config => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard.exe.config
+2022-05-04 23:31:19> DeltaPackageBuilder: We really couldn't create a delta for Dashboard.exe.config: System.DivideByZeroException: Attempted to divide by zero.
+   at Squirrel.Bsdiff.BinaryPatchUtility.Create(Byte[] oldData, Byte[] newData, Stream output)
+   at Squirrel.DeltaPackageBuilder.createDeltaForSingleFile(FileInfo targetFile, DirectoryInfo workingDirectory, Dictionary`2 baseFileListing)
+2022-05-04 23:31:19> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard_ExecutionStub.exe => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard_ExecutionStub.exe
+2022-05-04 23:31:19> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2022-05-04 23:31:19> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2022-05-04 23:31:19> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2022-05-04 23:31:20> DeltaPackageBuilder: \lib\net45\Newtonsoft.Json.dll hasn't changed, writing dummy file
+2022-05-04 23:31:20> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2022-05-04 23:31:20> DeltaPackageBuilder: \lib\net45\SharpCompress.dll hasn't changed, writing dummy file
+2022-05-04 23:31:20> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2022-05-04 23:31:20> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2022-05-04 23:31:20> DeltaPackageBuilder: \lib\net45\System.Net.Http.Formatting.dll hasn't changed, writing dummy file
+2022-05-04 23:31:20> Program: Building embedded zip file for Setup.exe
+2022-05-04 23:34:45> Program: Starting Squirrel Updater: --releasify TqcAdminTool.1.0.3.nupkg
+2022-05-04 23:34:45> Program: Bootstrapper EXE found at:C:\Users\lohma\source\repos\TqcAdminTool\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2022-05-04 23:34:45> Program: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.3.nupkg
+2022-05-04 23:34:45> ReleasePackage: Creating release package: C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool.1.0.3.nupkg => C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool-1.0.3-full.nupkg
+2022-05-04 23:34:45> ReleasePackage: Extracting dependent packages: []
+2022-05-04 23:34:45> ReleasePackage: Removing unnecessary data
+2022-05-04 23:34:45> ReleasePackage: No release notes found in C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\TqcAdminTool.nuspec
+2022-05-04 23:34:46> DeltaPackageBuilder: Extracting .\Releases\TqcAdminTool-1.0.2-full.nupkg and C:\Users\lohma\source\repos\TqcAdminTool\Releases\TqcAdminTool-1.0.3-full.nupkg into C:\Users\lohma\AppData\Local\SquirrelTemp\tempb
+2022-05-04 23:34:46> DeltaPackageBuilder: \lib\net45\Dapper.dll hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard.exe => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard.exe
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\Dashboard.exe.config hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: Delta patching C:\Users\lohma\AppData\Local\SquirrelTemp\tempa\lib\net45\Dashboard_ExecutionStub.exe => C:\Users\lohma\AppData\Local\SquirrelTemp\tempb\lib\net45\Dashboard_ExecutionStub.exe
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\Newtonsoft.Json.dll hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\SharpCompress.dll hasn't changed, writing dummy file
+2022-05-04 23:34:47> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2022-05-04 23:34:48> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2022-05-04 23:34:48> DeltaPackageBuilder: \lib\net45\System.Net.Http.Formatting.dll hasn't changed, writing dummy file
+2022-05-04 23:34:48> Program: Building embedded zip file for Setup.exe
